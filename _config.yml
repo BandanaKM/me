@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Bandana
+description:      
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
@@ -8,15 +8,15 @@ url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Bandana
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:         
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        BandanaKM  
   facebook:       
-  github:         
+  github:         https://github.com/BandanaKM
   stackexchange:  
-  linkedin:       
+  linkedin:       https://www.linkedin.com/profile/view?id=153206340&trk=nav_responsive_tab_profile
   instagram:      
   flickr:         
   tumblr:         
@@ -34,11 +34,11 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Articles
+  - title: Blog
     url: /articles/
-  - title: Theme Setup
+  - title: Resume
     url: /theme-setup/
-  - title: Made Mistakes
+  - title: Impact 
     url: http://mademistakes.com
     external: true
 
