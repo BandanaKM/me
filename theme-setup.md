@@ -1,11 +1,12 @@
 ---
 layout: page
 permalink: /theme-setup/
-title: Theme Setup
-description: "Instructions on how to install and customize the Jekyll theme So Simple."
+title: Resume
+description: 
 modified: 2013-09-11
-tags: [Jekyll, theme, install, setup]
+tags: [Resume, Career, Programming, Web Technology]
 ---
+
 
 General notes and suggestions for customizing **So Simple Theme**.
 

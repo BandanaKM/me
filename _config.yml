@@ -15,13 +15,13 @@ owner:
   twitter:        BandanaKM  
   facebook:       
   github:         BandanaKM
-  stackexchange:  
+  stackexchange:  http://stackexchange.com/users/3283118/bandanakm
   linkedin:       https://www.linkedin.com/profile/view?id=153206340&trk=nav_responsive_tab_profile
   instagram:      
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    https://plus.google.com/u/0/112949475799025585369/posts
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -37,10 +37,13 @@ links:
   - title: Blog
     url: /articles/
   - title: Resume
-    url: /theme-setup/
-  - title: Impact 
-    url: http://mademistakes.com
-    external: true
+    url: /resume
+  - title: Portfolio
+    url: /portfolio
+
+  # - title: Impact 
+  #   url: http://mademistakes.com
+  #   external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About the Jekyll Theme
+title: About Bandana
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2013-09-13
 image:
@@ -10,23 +10,11 @@ image:
   creditlink: http://mademistakes.com
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+Bandana is a junior developer and an earth systems scientist who is passionate about the use of technology to improve our world. After spending eight years in the environment and earth systems sector, she witnessed first-hand how web and mobile technologies and satellite data accelerated our ability to deliver solutions to people without access to basic needs. Bandana is passionate about programming and applying her skills as a developer and a scientist to build new tools for the world's toughest challenges and bridge the global digital divide.
 
-## So Simple Theme is all about:
+Bana codes mostly in Ruby, Rails, with some Javascript and JQuery, and is a founding partner of the social enterprise EcoSikh that works on climate change solutions in South Asia through temples and sacred sites. Bandana also serves as an advisor to the Athena Digital Design Agency at Barnard and as an organizer of the annual hackathon EcoHack in partnership with CartoDB. She graduated with a Bachelor's of Arts from Barnard College with honors, and a Master’s from Yale University in Environmental Science, and received her software developer training from the Flatiron School.  
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
+
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
 
