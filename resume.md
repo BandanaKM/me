@@ -13,31 +13,31 @@ share:
 
 <strong>Experience:</strong>
 
-Founding Partner </br>
-EcoSikh </br>
-August 2010 – Present New York, NY </br>
+Founding Partner 
+EcoSikh 
+August 2010 – Present New York, NY
 
-Yale Tropical Resources Institute Fellow </br>
-Yale Tropical Resources Institute </br>
+Yale Tropical Resources Institute Fellow 
+Yale Tropical Resources Institute 
 May 2010 – September 2010 
 
-Climate and Energy Division - Intern </br>
-Environmental and Energy Study Institute </br>
+Climate and Energy Division - Intern 
+Environmental and Energy Study Institute
 May 2009 – July 2009
 
-Associate </br>
-Waterkeeper </br>
+Associate 
+Waterkeeper 
 June 2005 – June 2008 
 
 
 <strong>Education:</strong>
 
-Yale University, 2011 </br>
-Masters of Environmental Science </br>
-Barnard College, 2005 </br>
-Bachelor of Arts, with Honors </br>
+Yale University, 2011 
+Masters of Environmental Science 
+Barnard College, 2005 
+Bachelor of Arts, with Honors 
 
-Flatiron School, 2013 </br>
+Flatiron School, 2013 
 Intensive Ruby and Rails Course, with JavaScript, JQuery, HTML, CSS, SQL, Git and Github. 
 
 

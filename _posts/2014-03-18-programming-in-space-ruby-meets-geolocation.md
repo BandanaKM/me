@@ -46,10 +46,3 @@ GeoRuby provides data types intended to hold data from PostGIS and the spatial e
 Cartographie is a gem that helps you use Google’s static maps API, a way to embed a Google map on your website without using JavaScript or dynamic page loading. The static map takes an HTTP or URL request and returns it as an image. Simply put, the Cartographie gem helps make these maps beautiful.
 
 In future posts, I’ll be writing more on web applications that use Ruby and Rails for spatial and map-based data, with a focus on coding for good. Maps are a dynamic technological tool to meet human needs og our time; Ruby is in need of a community to support these ever expanding goals of map based information and its real world applications, and I feel extremely fortunate to be a part.
-
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-<div markdown="0"><a href="#" class="btn">This is a button</a></div>
