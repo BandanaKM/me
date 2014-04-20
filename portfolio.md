@@ -15,6 +15,9 @@ share:
 <figure class="full">
 <img src="/images/logg-io-screenshot.png">
 <figcaption>
+</figcaption>
+</figure>
+
 [Logg.io](http://hidden-ocean-5140.herokuapp.com/): A Gym App used to track workouts
 Structure and Layout of the Rails App in MVC format with all associations 
 Omniauth login for Facebook and Foursquare (allows a user to login through multiple providers) 
@@ -24,8 +27,6 @@ Twitter Bootstrap installation
 Dashboard Page, Icons, Lists and Partials
 Search Bar Navigation and Button
 GitHub workflow.
-</figcaption>
-</figure>
 
 
 <figure class="full">

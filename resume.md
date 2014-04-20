@@ -13,35 +13,40 @@ share:
 
 <strong>Experience:</strong>
 
-Founding Partner 
-EcoSikh 
-August 2010 – Present New York, NY
+EcoSikh  
+Founding Partner  
+A social enterprise that works to develop macro-scale environmental solutions in South Asia through temples, sacred sites, and sustainable cities.  
+August 2010 – Present  
 
-Yale Tropical Resources Institute Fellow 
-Yale Tropical Resources Institute 
-May 2010 – September 2010 
+Yale Tropical Resources Institute  
+Yale Tropical Resources Institute Fellow   
+Researched present Green Revolution challenges in Panjab through field research, ecological studies, and collaborative work with specialists.  
+May 2010 – September 2010  
 
-Climate and Energy Division - Intern 
-Environmental and Energy Study Institute
-May 2009 – July 2009
+Environmental and Energy Study Institute  
+Climate and Energy Division - Intern   
+Researched and authored articles related to climate change, energy efficiency, renewable energy, water, and green economic development.  
+May 2009 – July 2009  
 
-Associate 
-Waterkeeper 
-June 2005 – June 2008 
+Waterkeeper  
+Associate  
+Researched and authored publications related to water quality and quantity.  
+June 2005 – June 2008  
 
 
 <strong>Education:</strong>
 
-Yale University, 2011 
-Masters of Environmental Science 
-Barnard College, 2005 
-Bachelor of Arts, with Honors 
+Yale University, 2011, Masters of Environmental Science  
+Barnard College, 2005, Bachelor of Arts, with Honors  
 
-Flatiron School, 2013 
-Intensive Ruby and Rails Course, with JavaScript, JQuery, HTML, CSS, SQL, Git and Github. 
 
+<strong>Technical Education:</strong>
+
+Flatiron School, 2013  
+Intensive training in Ruby and Rails, JavaScript, JQuery, HTML, CSS, SQL and MySQL, Git and Github.  
+TDD in RSpec, Daily Standups, Pair Programming  
 
 <strong>Honors & Awards</strong>
 
-Barnard College Undergraduate Honors, Dean's List 2004-2005, Barnard College Poetry Reading Series Selected Reader, Yale Tropical Resources Institute Fellow, Jubitz Family Foundation Grant Recipient
+Barnard College Undergraduate Honors, Dean's List 2004-2005, Barnard College Poetry Reading Series Selected Reader, Yale Tropical Resources Institute Fellow, Jubitz Family Foundation Grant Recipient  
 
