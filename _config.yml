@@ -1,6 +1,6 @@
 title:            Bandana
 description:      
-logo:             site-logo.png
+logo:             lotus.jpg
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -9,7 +9,7 @@ url:              http://localhost:4000
 # Owner/author information
 owner:
   name:           Bandana
-  avatar:         bio-photo.jpg
+  avatar:         bana-pink-car.jpg
   email:         
   # Social networking links used in footer. Update and remove as you like.
   twitter:        BandanaKM  
