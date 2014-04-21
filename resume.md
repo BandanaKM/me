@@ -13,23 +13,19 @@ share:
 
 <strong>Experience:</strong>
 
-EcoSikh  
-Founding Partner  
-A social enterprise that works to develop macro-scale environmental solutions in South Asia through temples, sacred sites, and sustainable cities.  
+Ecosikh, Founding Partner  
+Founding partner of a social enterprise that works to develop macro-scale environmental solutions in South Asia through temples, sacred sites, and sustainable cities.  
 August 2010 – Present  
 
-Yale Tropical Resources Institute  
-Yale Tropical Resources Institute Fellow   
-Researched present Green Revolution challenges in Panjab through field research, ecological studies, and collaborative work with specialists.  
+Yale Tropical Resources Institute, Fellow   
+Researched land-based challenges in Panjab through field research, ecological studies, and collaborative work with specialists.  
 May 2010 – September 2010  
 
-Environmental and Energy Study Institute  
-Climate and Energy Division - Intern   
-Researched and authored articles related to climate change, energy efficiency, renewable energy, water, and green economic development.  
+Environmental and Energy Study Institute, Climate and Energy Intern   
+Researched and authored articles related to climate change, energy efficiency, renewable energy, and water.  
 May 2009 – July 2009  
 
-Waterkeeper  
-Associate  
+Waterkeeper, Associate  
 Researched and authored publications related to water quality and quantity.  
 June 2005 – June 2008  
 
@@ -45,6 +41,7 @@ Barnard College, 2005, Bachelor of Arts, with Honors
 Flatiron School, 2013  
 Intensive training in Ruby and Rails, JavaScript, JQuery, HTML, CSS, SQL and MySQL, Git and Github.  
 TDD in RSpec, Daily Standups, Pair Programming  
+
 
 <strong>Honors & Awards</strong>
 
