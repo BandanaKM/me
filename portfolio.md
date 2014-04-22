@@ -16,7 +16,7 @@ share:
 ## [Logg.io](http://hidden-ocean-5140.herokuapp.com/)
 
 <figure class="full">
-<img src="/images/logg-io-screenshot.png">
+<img src="/images/logg-io-screenshot.jpg">
 <figcaption>
 </figcaption>
 </figure>  
@@ -40,7 +40,7 @@ GitHub workflow.
 ## [Flatiron Magazine](http://magazine.flatironschool.com/)
 
 <figure class="full">
-<img src="/images/flatiron-mag-screenshot.png">
+<img src="/images/flatiron-mag-screenshot.jpg">
 <figcaption>
 </figcaption>
 </figure>
@@ -61,7 +61,7 @@ GitHub workflow
 ## Tree App
 
 <figure class="full">
-	<img src="/images/tree-io-screenshot.png">
+	<img src="/images/tree-io-screenshot.jpg">
 	<figcaption>
  </figcaption>
 </figure>
