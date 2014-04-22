@@ -4,7 +4,7 @@ logo:             lotus.jpg
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://bandanakm.github.io
+url:              http://bandanakm.github.io/me
 
 # Owner/author information
 owner:
