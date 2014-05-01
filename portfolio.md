@@ -53,12 +53,13 @@ Design and functionality of of buttons in JavaScript
 Blog feed using Feedzirra gem  
 GitHub workflow  
 
+
 ---
 ---
 
   
 
-## Tree App
+## [Tree App](https://github.com/tree-app/tree-app/)
 
 <figure class="full">
 	<img src="../images/tree-io-screenshot.jpg">
@@ -77,6 +78,8 @@ Twitter Bootstrap installation
 Deployment on Digital Ocean  
 GitHub workflow  
 (Currently working on Front-End)  
+
+
 
 
 ---

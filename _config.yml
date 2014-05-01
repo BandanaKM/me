@@ -9,14 +9,14 @@ url:              http://bandanakm.github.io/me
 # Owner/author information
 owner:
   name:           Bandana
-  avatar:         bana-pink-car.jpg
+  avatar:         ../bana-pink-car.jpg
   email:         
   # Social networking links used in footer. Update and remove as you like.
   twitter:        BandanaKM  
   facebook:       
   github:         BandanaKM
   stackexchange:  http://stackexchange.com/users/3283118/bandanakm
-  linkedin:       https://www.linkedin.com/pub/bandana-k-malik/43/385/b0
+  linkedin:       http://www.linkedin.com/pub/bandana-k-malik/43/385/b0/
   instagram:      
   flickr:         
   tumblr:         
